@@ -1,0 +1,16 @@
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\bin\Debug\netcoreapp3.1\DatosPostulante.exe
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\bin\Debug\netcoreapp3.1\DatosPostulante.deps.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\bin\Debug\netcoreapp3.1\DatosPostulante.runtimeconfig.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\bin\Debug\netcoreapp3.1\DatosPostulante.runtimeconfig.dev.json
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\bin\Debug\netcoreapp3.1\DatosPostulante.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\bin\Debug\netcoreapp3.1\DatosPostulante.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\obj\Debug\netcoreapp3.1\DatosPostulante.Datos.resources
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\obj\Debug\netcoreapp3.1\DatosPostulante.Properties.Resources.resources
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\obj\Debug\netcoreapp3.1\DatosPostulante.csproj.GenerateResource.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\obj\Debug\netcoreapp3.1\DatosPostulante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\obj\Debug\netcoreapp3.1\DatosPostulante.AssemblyInfoInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\obj\Debug\netcoreapp3.1\DatosPostulante.AssemblyInfo.cs
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\obj\Debug\netcoreapp3.1\DatosPostulante.csproj.CoreCompileInputs.cache
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\obj\Debug\netcoreapp3.1\DatosPostulante.dll
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\obj\Debug\netcoreapp3.1\DatosPostulante.pdb
+C:\Users\Lore\Documents\00programacion\01. Tecnicatura en desarrollo de software\0 2do cuatrimestre\MDS\PRACTICAS\repos\DatosPostulante\obj\Debug\netcoreapp3.1\DatosPostulante.genruntimeconfig.cache
